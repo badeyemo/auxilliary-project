@@ -49,4 +49,3 @@ while IFS= read USERNAME
         fi
     done < $CSV_FILE
 exit 0    
-
